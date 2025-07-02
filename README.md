@@ -10,6 +10,9 @@ By Rajdev Yadav
  It is perfect for data-intensive real-time applications that run across distributed devices.
 
 ## Pre-requisites
+Laptop/pc
+Basic JavaScript knowledge
+Strong Will To Learn.
 ## NodeJs Features
 ## JavaScript on Client
 ## JavaScript on Server
